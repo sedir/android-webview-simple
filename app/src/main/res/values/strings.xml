@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Atendimento - Promotores</string>
+    <string name="back_to_exit">Toque em VOLTAR novamente para sair.</string>
+    <string name="recarregar">reload</string>
+</resources>
